@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, td {
+  border:1px solid black;
+   border-collapse: collapse;
+}
+
+th {
+text-align: left;
+border:1px solid black;
+}
+
+</style>
+<body>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Student ID </th>
+    
+  </tr>
+  <tr>
+    <td>Joseph Samantha</td>
+    <td>1143560</td>
+  
+  </tr>
+</table>
+
+
+
+</body>
+</html>
